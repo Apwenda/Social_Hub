@@ -2,7 +2,7 @@
 
 🌐 Modern Social Hub & Digital Business Card for Web Developer.
 
-![Profile Preview](assets/profile.png)
+![Profile Preview](assets/Profile.png)
 
 ## 🇮🇩 Tentang Proyek
 
