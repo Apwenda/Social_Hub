@@ -4,6 +4,12 @@
 
 ![Profile Preview](assets/Profile.png)
 
+# Social Hub
+
+🌐 Modern Social Hub & Digital Business Card for Web Developer.
+
+[Live Demo](https://apwenda.github.io/Social_Hub/)
+
 ## 🇮🇩 Tentang Proyek
 
 Social Hub adalah website profil digital yang dirancang untuk menghubungkan seluruh platform online dalam satu halaman yang sederhana, modern, dan profesional.
